@@ -8,7 +8,7 @@
 # `Before leading to the meaning of artificial intelligence let understand what is the meaning of the Intelligence-`
 # Intelligence: 
 ## `The ability to learn and solve problems. This definition is taken from webster’s Dictionary.`
-## `The most common answer that one expects is “to make computers intelligent so that they can act intelligently!”, but the question is how much intelligent? How can one judge the intelligence? `
+## *The most common answer that one expects is “to make computers intelligent so that they can act intelligently!”, but the question is how much intelligent? How can one judge the intelligence? *
 ## …as intelligent as humans. If the computers can, somehow, solve real-world problems, by improving on their own from the past experiences, they would be called “intelligent”.
 ### Thus, the AI systems are more generic(rather than specific), have the ability to “think” and are more flexible.
 ## Intelligence, as we know, is the ability to acquire and apply the knowledge. Knowledge is the information acquired through experience. Experience is the knowledge gained through exposure(training). Summing the terms up, we get artificial intelligence as the “copy of something natural(i.e., human beings) ‘WHO’ is capable of acquiring and applying the information it has gained through exposure.
