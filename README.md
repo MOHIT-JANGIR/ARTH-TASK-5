@@ -36,6 +36,10 @@
 ![image](https://user-images.githubusercontent.com/61896468/96582527-0d0c5200-12f9-11eb-8e46-53ad97aae003.png) 
 # <p align="center">BANZO</p>
 ## *Banjo was founded after the tragic bombings of the Boston Marathon 2013. The start-up uses AI to search social media to identify real-time events and situations that could be critical for emergency services and other organizations to operate faster and smarter. The company has raised more than $120 million in funding to date, including investors such as the Japanese telecommunications giant SoftBank.*
+
+![image](https://user-images.githubusercontent.com/61896468/96588865-c40ccb80-1301-11eb-9233-2cb5bcbbd374.png)
+
+
 # <p align="center">DJI</p>
 ## ``The first Chinese company on the list, DJI, is still officially a start-up but has already been valued at 15 billion dollars. The company has a market share of more than 70 percent in the global drone market and is increasingly entering the AI market. The latest drones use AI and image recognition to avoid objects. Soon, an entry into autonomous vehicles and robotics can be expected. DJI has recently entered into a partnership with Microsoft for a drone-to-computer streaming project.``
 
