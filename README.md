@@ -2,15 +2,22 @@
 ![image](https://user-images.githubusercontent.com/61896468/96582196-8b1c2900-12f8-11eb-948c-0e652564f618.png)
 
 
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+
 # What is Artificial Intelligence ?
 ![image](https://user-images.githubusercontent.com/61896468/96582294-b3a42300-12f8-11eb-97cd-1844daab7128.png) 
 
 # `Before leading to the meaning of artificial intelligence let understand what is the meaning of the Intelligence-`
 # Intelligence: 
 ## `The ability to learn and solve problems. This definition is taken from webster’s Dictionary.`
-## *The most common answer that one expects is “to make computers intelligent so that they can act intelligently!”, but the question is how much intelligent? How can one judge the intelligence?*
+# *The most common answer that one expects is “to make computers intelligent so that they can act intelligently!”, but the question is how much intelligent? How can one judge the intelligence?*
 ## …as intelligent as humans. If the computers can, somehow, solve real-world problems, by improving on their own from the past experiences, they would be called “intelligent”.
-### Thus, the AI systems are more generic(rather than specific), have the ability to “think” and are more flexible.
+# ` Thus, the AI systems are more generic(rather than specific), have the ability to “think” and are more flexible.`
+
 ## Intelligence, as we know, is the ability to acquire and apply the knowledge. Knowledge is the information acquired through experience. Experience is the knowledge gained through exposure(training). Summing the terms up, we get artificial intelligence as the “copy of something natural(i.e., human beings) ‘WHO’ is capable of acquiring and applying the information it has gained through exposure.
 
 # What is Machine Learning ?
@@ -82,6 +89,10 @@
 ![image](https://user-images.githubusercontent.com/61896468/96586141-311e6200-12fe-11eb-9030-7967690ec060.png)
 
 ## ```Like the other big players in Silicon Valley, Twitter is all about getting into artificial intelligence, especially with money. Four AI companies have already been acquired, with Magic Pony being the most notable for $150 million. The Australian company is developing machine learning approaches for visual processing on the web and mobile devices, and Twitter is likely to improve its systems for recommending specific tweets in users’ timelines with AI in the future.```
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+![image](https://user-images.githubusercontent.com/61896468/96587855-7f346500-1300-11eb-8690-227f295af2c7.png)
 
 
 #  <p align="center">so finally i have completed `ARTH TASK 5`,thanks a lot vimal sir and all the 24*7 working technical volunteers for all your seamless and thankful support </p>
