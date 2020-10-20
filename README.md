@@ -37,7 +37,7 @@
 # <p align="center">BANZO</p>
 ## *Banjo was founded after the tragic bombings of the Boston Marathon 2013. The start-up uses AI to search social media to identify real-time events and situations that could be critical for emergency services and other organizations to operate faster and smarter. The company has raised more than $120 million in funding to date, including investors such as the Japanese telecommunications giant SoftBank.*
 
-![image](https://user-images.githubusercontent.com/61896468/96588865-c40ccb80-1301-11eb-9233-2cb5bcbbd374.png)
+![image](https://user-images.githubusercontent.com/61896468/96589092-0cc48480-1302-11eb-88f9-960c0ae88c20.png)
 
 
 # <p align="center">DJI</p>
