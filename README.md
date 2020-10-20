@@ -1,7 +1,7 @@
 # How big MNCs are getting benefited from AI/ML
 ![image](https://user-images.githubusercontent.com/61896468/96582196-8b1c2900-12f8-11eb-948c-0e652564f618.png)
 
-
+![image](https://user-images.githubusercontent.com/61896468/96588704-99bb0e00-1301-11eb-82be-ec1de7d693d9.png)
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -92,7 +92,7 @@
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-![image](https://user-images.githubusercontent.com/61896468/96587855-7f346500-1300-11eb-8690-227f295af2c7.png)
+![image](https://user-images.githubusercontent.com/61896468/96588466-4fd22800-1301-11eb-9104-7eace720d497.png) 
 
 
 #  <p align="center">so finally i have completed `ARTH TASK 5`,thanks a lot vimal sir and all the 24*7 working technical volunteers for all your seamless and thankful support </p>
