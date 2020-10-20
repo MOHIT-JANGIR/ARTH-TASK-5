@@ -60,10 +60,24 @@ Intelligence, as we know, is the ability to acquire and apply the knowledge. Kno
 ## *The non-profit research group revolves around the development of AI for the benefit of all humankind and has managed to maintain its open source mentality, although large sums of money have been raised through investments and some through acquisitions. Some of the biggest names in AI currently work at OpenAI, including deep learning expert Ilya Sutskever. Sponsors include Microsoft, Amazon and Elon Musk.*
 ![image](https://user-images.githubusercontent.com/61896468/96582981-ac314980-12f9-11eb-8266-910de9cfabf5.png)
 #  <p align="center">QUALCOMM</p>
+
+![image](https://user-images.githubusercontent.com/61896468/96586467-adb14080-12fe-11eb-88e9-2e869b5ad401.png)
+
+![image](https://user-images.githubusercontent.com/61896468/96586630-e18c6600-12fe-11eb-8249-e2e301402471.png)
+
+
 ## ``Like HiSilicon with its Kirin 980, Qualcomm is another chip manufacturer that is committed to artificial intelligence. AI plays a crucial role in the Snapdragon 855 mobile platform. The chip uses a signal processor for AI speech, audio and image functions. Qualcomm Snapdragons power some of the most popular smartphones on the market. If you’re interested in AI in the smartphone, you should keep an eye on Qualcomm.``
 #  <p align="center">SENSETIME</p>
+![image](https://user-images.githubusercontent.com/61896468/96586322-76db2a80-12fe-11eb-8d26-f3be84ba908f.png)
+
+![image](https://user-images.githubusercontent.com/61896468/96586257-5f9c3d00-12fe-11eb-86e8-c62e78f72d8b.png)
+
+
 ## You heard about the Chinese government using face recognition to track citizens, right? Well, SenseTime is the current supplier of this technology. His research team is studying deep learning at the University of Hong Kong, and his image recognition technology is known to be way ahead of what Google and Facebook can do. Autonomous driving is currently SenseTime’s number one priority.
 #  <p align="center">TWITTER</p>
+
+![image](https://user-images.githubusercontent.com/61896468/96586141-311e6200-12fe-11eb-9030-7967690ec060.png)
+
 ## ```Like the other big players in Silicon Valley, Twitter is all about getting into artificial intelligence, especially with money. Four AI companies have already been acquired, with Magic Pony being the most notable for $150 million. The Australian company is developing machine learning approaches for visual processing on the web and mobile devices, and Twitter is likely to improve its systems for recommending specific tweets in users’ timelines with AI in the future.```
 
 
