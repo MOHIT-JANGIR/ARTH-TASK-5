@@ -7,12 +7,12 @@
 
 # `Before leading to the meaning of artificial intelligence let understand what is the meaning of the Intelligence-`
 # Intelligence: 
-## `The ability to learn and solve problems. This definition is taken from webster’s Dictionary.
-The most common answer that one expects is “to make computers intelligent so that they can act intelligently!”, but the question is how much intelligent? How can one judge the intelligence?
-…as intelligent as humans. If the computers can, somehow, solve real-world problems, by improving on their own from the past experiences, they would be called “intelligent”.
-Thus, the AI systems are more generic(rather than specific), have the ability to “think” and are more flexible.
-Intelligence, as we know, is the ability to acquire and apply the knowledge. Knowledge is the information acquired through experience. Experience is the knowledge gained through exposure(training). Summing the terms up, we get artificial intelligence as the “copy of something natural(i.e., human beings) ‘WHO’ is capable of acquiring and applying the information it has gained through exposure.”
-`
+## `The ability to learn and solve problems. This definition is taken from webster’s Dictionary.`
+## `The most common answer that one expects is “to make computers intelligent so that they can act intelligently!”, but the question is how much intelligent? How can one judge the intelligence? `
+## …as intelligent as humans. If the computers can, somehow, solve real-world problems, by improving on their own from the past experiences, they would be called “intelligent”.
+### Thus, the AI systems are more generic(rather than specific), have the ability to “think” and are more flexible.
+## Intelligence, as we know, is the ability to acquire and apply the knowledge. Knowledge is the information acquired through experience. Experience is the knowledge gained through exposure(training). Summing the terms up, we get artificial intelligence as the “copy of something natural(i.e., human beings) ‘WHO’ is capable of acquiring and applying the information it has gained through exposure.
+
 # What is Machine Learning ?
 ![image](https://user-images.githubusercontent.com/61896468/96582399-d9c9c300-12f8-11eb-9aef-fe35dc3fece6.png)
 ## *Arthur Samuel, a pioneer in the field of artificial intelligence and computer gaming, coined the term “Machine Learning”. He defined machine learning as — “Field of study that gives computers the capability to learn without being explicitly programmed”.*
@@ -42,6 +42,9 @@ Intelligence, as we know, is the ability to acquire and apply the knowledge. Kno
 ### There is also Google’s machine system TensorFlow, which is now free for all, and the ongoing Tensor AI chip project for machine learning on the device. Google’s CEO, Sundar Pichai, has already mentioned that in the long run we are “evolving from a ‘mobile first’ to an ‘AI-first’ world in the computer industry,” and that already says everything you need to know to see where Google sees the future.
 ![image](https://user-images.githubusercontent.com/61896468/96582710-4e9cfd00-12f9-11eb-9914-830723d88f7d.png)
 # <p align="center">HISILICON</p>
+![image](https://user-images.githubusercontent.com/61896468/96586877-37610e00-12ff-11eb-9df4-8c7343e7711e.png)
+
+
 ## *When Huawei CEO Richard Yu unveiled the Kirin 980 at IFA 2018 in Berlin, the competition was very keen. HiSilicon, Huawei’s chip manufacturer, has significantly enhanced the second generation of the world’s first AI smartphone chip. The Kirin 980 can do things like face recognition, object recognition, image segmentation, and intelligent translation at high speed. The chip has sparked a flood of AI smartphone chips, and if a company is going to develop the technology further in the next few years, it probably will.*
 #  <p align="center">IBM</p>
 ## `The multinational technology company IBM has been active in AI since the 1950s. The company was involved in the birth of artificial intelligence and is still firmly committed today. With Watson, IBM has created a machine learning platform that can integrate AI into business processes, such as building a chatbot for customer support. Customers include Big Four Auditor, KPMG and Bradesco, one of Brazil’s largest banks.`
